@@ -1,4 +1,5 @@
 # Project
+The program is inside the "code" folder
 
 Before running the code, make sure you have all the libraries installed
 Libraries required are
