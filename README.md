@@ -18,3 +18,6 @@ Transcribing audio will take slightly longer than the duration of the audio. Dur
 If at any stage it shows **_(not responding)_**, please do not click or try to move any window. Doing so will crash python.
 
 Make sure that the image _"stack_howto.jpg"_ is the the same folder as the python file.
+
+You can check the video tutorial on
+https://youtu.be/GKPVYZM_gOo
